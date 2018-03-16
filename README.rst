@@ -1,6 +1,6 @@
-=====================================================
+======================================================
 *QELAclient* - The client to use the QELA web service
-=====================================================
+======================================================
 
 .. image:: https://img.shields.io/badge/License-GPLv3-red.svg
 .. image:: https://img.shields.io/badge/python-C3.6-green.svg
