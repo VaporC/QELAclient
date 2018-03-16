@@ -1,0 +1,3 @@
+This free software is licensed under GPLv3.
+By using this software the user agrees to the thereby associated terms.
+More information can be found here http://www.gnu.org/licenses/quick-guide-gplv3.en.html
